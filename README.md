@@ -1,9 +1,9 @@
 # EffervescentSeahorse
 
-![Sign in](https://cloud.githubusercontent.com/assets/11761337/10063595/a35a1066-6224-11e5-801c-43a1170eb230.png =125x200)
-![Events page](https://cloud.githubusercontent.com/assets/11761337/10063607/bd83e7b4-6224-11e5-80c7-4aa4051ac7f2.png =125x200)
-![Chats](https://cloud.githubusercontent.com/assets/11761337/10063608/c1824e14-6224-11e5-9f44-b9593fbda187.png =125x200)
-![Profile Page](https://cloud.githubusercontent.com/assets/11761337/10063610/c635f56e-6224-11e5-86b4-ded5c6c8acc3.png =125x200)
+![Sign in](https://cloud.githubusercontent.com/assets/11761337/10063850/f4c28c2e-6226-11e5-9209-a19ac770ce36.png)
+![Events page](https://cloud.githubusercontent.com/assets/11761337/10063853/f66663c0-6226-11e5-927b-0e9e31a6e1ea.png)
+![Chats](https://cloud.githubusercontent.com/assets/11761337/10063855/f79ec2c8-6226-11e5-9855-d0749eae1a64.png)
+![Profile Page](https://cloud.githubusercontent.com/assets/11761337/10063856/f9433776-6226-11e5-8677-81b1376770f6.png)
 
 ## Source Code
 >
