@@ -1,5 +1,10 @@
 # EffervescentSeahorse
 
+![Sign in](https://cloud.githubusercontent.com/assets/11761337/10063595/a35a1066-6224-11e5-801c-43a1170eb230.png)
+![Events page](https://cloud.githubusercontent.com/assets/11761337/10063607/bd83e7b4-6224-11e5-80c7-4aa4051ac7f2.png)
+![Chats](https://cloud.githubusercontent.com/assets/11761337/10063608/c1824e14-6224-11e5-9f44-b9593fbda187.png)
+![Profile Page](https://cloud.githubusercontent.com/assets/11761337/10063610/c635f56e-6224-11e5-86b4-ded5c6c8acc3.png)
+
 ## Source Code
 >
 ###### The /www directory contains all of the source code
