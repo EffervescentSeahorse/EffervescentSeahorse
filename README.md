@@ -2,7 +2,6 @@
 
 ![Sign in](https://cloud.githubusercontent.com/assets/11761337/10063850/f4c28c2e-6226-11e5-9209-a19ac770ce36.png)
 ![Events page](https://cloud.githubusercontent.com/assets/11761337/10063853/f66663c0-6226-11e5-927b-0e9e31a6e1ea.png)
-![Chats](https://cloud.githubusercontent.com/assets/11761337/10063855/f79ec2c8-6226-11e5-9855-d0749eae1a64.png)
 ![Profile Page](https://cloud.githubusercontent.com/assets/11761337/10063856/f9433776-6226-11e5-8677-81b1376770f6.png)
 
 ## Source Code
